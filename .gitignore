@@ -1,0 +1,65 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# === Entornos virtuales ===
+venv/
+env/
+.venv/
+.env/
+
+# === Archivos de configuración sensibles ===
+*.env
+.env.*
+config.ini
+config.yaml
+secrets.json
+
+# === Respaldos de BD (pueden contener datos sensibles) ===
+*.sql
+*.dump
+*.bak
+backups/
+
+# === Exportaciones (datos sensibles) ===
+exports/
+*.csv
+*.json
+!package.json
+!requirements.json
+
+# === Logs y errores ===
+*.log
+error.txt
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# === OS ===
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# === Flet ===
+.flet/
+assets/uploads/
+
+# === Credenciales y claves ===
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+id_rsa
+id_rsa.pub
