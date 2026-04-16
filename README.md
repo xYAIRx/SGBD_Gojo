@@ -1,6 +1,6 @@
 # 💠 DB Manager — MariaDB
 
-¡Bienvenido a **Gojo DB Manager**! Un robusto y elegante Sistema Gestor de Bases de Datos diseñado exclusivamente para **MariaDB** construido completamente sobre Python y [Flet](https://flet.dev/). Gojo DB te proporciona una inferfaz de escritorio visualmente atractiva (Dark Theme), altamente responsiva y llena de utilidades críticas para administración y gestión de servidores locales o remotos.
+¡Bienvenido a ** DB Manager**! Un robusto y elegante Sistema Gestor de Bases de Datos diseñado exclusivamente para **MariaDB** construido completamente sobre Python y [Flet](https://flet.dev/). Gojo DB te proporciona una inferfaz de escritorio visualmente atractiva (Dark Theme), altamente responsiva y llena de utilidades críticas para administración y gestión de servidores locales o remotos.
 
 ---
 
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 2. **Asegurar dependencias instaladas** (revisa los prerequisitos arriba).
 
-3. **Ejecutar Gojo DB Manager:** Utilizar directamente el archivo de arranque principal.
+3. **Ejecutar DB Manager:** Utilizar directamente el archivo de arranque principal.
     ```bash
     python main.py
     ```
@@ -61,4 +61,4 @@ Si a la hora de hacer copias de seguridad o restauración el programa te arroja 
 Alternativamente, la ruta por defecto suele ser `C:\Program Files\MariaDB [version]\bin`. Añádela a tus variables de entorno en *Propiedades del Sistema > Variables de Entorno > Path*.
 
 ---
-*Desarrollado con ♥ y Python en SGBD_Gojo.*
+*Desarrollado con Barrios Nava Yair, Felipe Estrella Bautista, Hernandez Barragan Cristian y Mendoza Balderas Yaneliy Python en SGBD_.*
