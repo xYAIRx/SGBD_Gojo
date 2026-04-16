@@ -61,4 +61,4 @@ Si a la hora de hacer copias de seguridad o restauración el programa te arroja 
 Alternativamente, la ruta por defecto suele ser `C:\Program Files\MariaDB [version]\bin`. Añádela a tus variables de entorno en *Propiedades del Sistema > Variables de Entorno > Path*.
 
 ---
-*Desarrollado con Barrios Nava Yair, Felipe Estrella Bautista, Hernandez Barragan Cristian y Mendoza Balderas Yaneliy Python en SGBD_.*
+*Desarrollado por Barrios Nava Yair, Felipe Estrella Bautista, Hernandez Barragan Cristian y Mendoza Balderas Yaneliy Python en SGBD_.*
